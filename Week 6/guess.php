@@ -1,6 +1,6 @@
 <html>
 <body>
-<title> Anamitra Musib b1777244 </title>
+<title>b1777244</title>
 <h1> Welcome to my guessing game</h1>
 
 <?php
